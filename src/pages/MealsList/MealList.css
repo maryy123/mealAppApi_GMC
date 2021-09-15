@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 5%;
+  position: relative;
+  height: 600px;
+}
+.list .pages {
+  position: absolute;
+  top: -15%;
+  left: -5%;
+}

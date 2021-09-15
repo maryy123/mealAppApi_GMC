@@ -1,0 +1,17 @@
+.d-flex input {
+  width: 20%;
+  margin-left: 73%;
+  margin-top: 3%;
+}
+
+.d-flex button {
+  margin-top: 3%;
+  border-color: #cb8e00;
+  color: #cb8e00;
+}
+
+.d-flex button:hover {
+  color: white;
+  background-color: #cb8e00;
+  border-color: #cb8e00;
+}

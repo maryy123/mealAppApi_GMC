@@ -1,0 +1,27 @@
+.cont {
+  position: relative;
+}
+.me-auto {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20% !important;
+  font-size: large;
+  font-weight: bold;
+}
+
+.me-auto a {
+  margin-right: 30%;
+  width: 30%;
+}
+
+.me-auto a:hover {
+  color: black;
+}
+
+.activeLink {
+  color: #cb8e00 !important;
+}
+
+.link {
+  color: white;
+}
